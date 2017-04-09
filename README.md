@@ -1,0 +1,1 @@
+This is my Tea Cozy project. On eproblem I ran into is I'm not sure why the h2 header in my #teamonth div displays as block just fine, but this was not the case in my #location div and I had to put it in a span to make the smaller .loc-details divs with the address information display below the header instead of alongside the header. Thank you for your feedback!
